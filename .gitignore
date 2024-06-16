@@ -1,0 +1,4 @@
+clock.componentinfo.xml
+clock.cproj
+Debug/*
+!Debug/Makefile
